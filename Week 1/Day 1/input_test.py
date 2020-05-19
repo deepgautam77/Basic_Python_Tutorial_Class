@@ -7,3 +7,4 @@ print("Your integer value is: ", b)
 c=float(input("Enter a float value: "))
 print("Your float value is: ",c)            #numeric data types: , string data types: +
 
+
